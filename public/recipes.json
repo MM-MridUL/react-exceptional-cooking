@@ -1,0 +1,163 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co.com/8d1dKXv/Spaghetti-Carbonara.jpg",
+      "recipe_id": "1",
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta",
+        "2 large eggs",
+        "50g Parmesan cheese",
+        "Salt",
+        "Black pepper"
+      ],
+      "preparing_time": 20,
+      "calories": 400
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/jM0rsRD/Chicken-Caesar-Salad.jpg",
+      "recipe_id": "2",
+      "recipe_name": "Chicken Caesar Salad",
+      "short_description": "A crisp salad with grilled chicken, Caesar dressing, croutons, and Parmesan.",
+      "ingredients": [
+        "200g grilled chicken breast",
+        "1 romaine lettuce",
+        "50g croutons",
+        "30g Parmesan cheese",
+        "Caesar dressing"
+      ],
+      "preparing_time": 15,
+      "calories": 350
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/mbPFYQb/Margherita-Pizza.jpg",
+      "recipe_id": "3",
+      "recipe_name": "Margherita Pizza",
+      "short_description": "A simple and delicious pizza topped with tomatoes, mozzarella, and fresh basil.",
+      "ingredients": [
+        "1 pizza dough",
+        "100g tomato sauce",
+        "150g mozzarella cheese",
+        "Fresh basil leaves",
+        "Olive oil"
+      ],
+      "preparing_time": 25,
+      "calories": 500
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/JR9MCfy/Beef-Stir-Fry.jpg",
+      "recipe_id": "4",
+      "recipe_name": "Beef Stir-Fry",
+      "short_description": "A quick and easy stir-fry with tender beef, vegetables, and soy sauce.",
+      "ingredients": [
+        "300g beef strips",
+        "1 bell pepper",
+        "1 onion",
+        "100g broccoli",
+        "Soy sauce",
+        "Garlic",
+        "Ginger"
+      ],
+      "preparing_time": 20,
+      "calories": 450
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/2SdvRRf/Vegan-Buddha-Bowl.jpg",
+      "recipe_id": "5",
+      "recipe_name": "Vegan Buddha Bowl",
+      "short_description": "A nutritious bowl with quinoa, roasted veggies, avocado, and tahini dressing.",
+      "ingredients": [
+        "100g quinoa",
+        "1 sweet potato",
+        "1 avocado",
+        "Chickpeas",
+        "Tahini",
+        "Mixed greens"
+      ],
+      "preparing_time": 30,
+      "calories": 420
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/ByNjNp4/Banana-Pancakes.jpg",
+      "recipe_id": "6",
+      "recipe_name": "Banana Pancakes",
+      "short_description": "Fluffy pancakes made with ripe bananas and served with maple syrup.",
+      "ingredients": [
+        "2 ripe bananas",
+        "1 egg",
+        "100g flour",
+        "1 tsp baking powder",
+        "Maple syrup"
+      ],
+      "preparing_time": 15,
+      "calories": 320
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/48tBQqY/Classic-Cheeseburger.jpg",
+      "recipe_id": "7",
+      "recipe_name": "Classic Cheeseburger",
+      "short_description": "A juicy beef burger with cheddar cheese, lettuce, tomato, and pickles.",
+      "ingredients": [
+        "200g ground beef",
+        "2 slices cheddar cheese",
+        "1 burger bun",
+        "Lettuce",
+        "Tomato",
+        "Pickles",
+        "Ketchup"
+      ],
+      "preparing_time": 20,
+      "calories": 600
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/B21sfgF/Shrimp-Tacos.jpg",
+      "recipe_id": "8",
+      "recipe_name": "Shrimp Tacos",
+      "short_description": "Grilled shrimp tacos with fresh salsa, avocado, and a tangy lime dressing.",
+      "ingredients": [
+        "200g shrimp",
+        "4 small tortillas",
+        "1 avocado",
+        "Fresh salsa",
+        "Lime juice",
+        "Cilantro"
+      ],
+      "preparing_time": 20,
+      "calories": 350
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/vwT2f3b/Vegetable-Curry.jpg",
+      "recipe_id": "9",
+      "recipe_name": "Vegetable Curry",
+      "short_description": "A fragrant curry with mixed vegetables, coconut milk, and spices.",
+      "ingredients": [
+        "1 onion",
+        "1 carrot",
+        "100g spinach",
+        "1 can coconut milk",
+        "Curry powder",
+        "Garlic",
+        "Ginger"
+      ],
+      "preparing_time": 30,
+      "calories": 400
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/WsnW4wK/Chocolate-Chip-Cookies.jpg",
+      "recipe_id": "10",
+      "recipe_name": "Chocolate Chip Cookies",
+      "short_description": "Soft and chewy cookies filled with melty chocolate chips.",
+      "ingredients": [
+        "150g flour",
+        "100g butter",
+        "100g sugar",
+        "1 egg",
+        "100g chocolate chips",
+        "Vanilla extract"
+      ],
+      "preparing_time": 25,
+      "calories": 250
+    }
+  ]
+  
